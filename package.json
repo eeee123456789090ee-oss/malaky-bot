@@ -1,0 +1,13 @@
+{
+  "name": "discord-quest-bot",
+  "version": "2.2.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "express": "^4.19.2",
+    "rss-parser": "^3.13.0"
+  }
+}
